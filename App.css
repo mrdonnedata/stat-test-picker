@@ -1,0 +1,23 @@
+.maindiv {
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.toppane {
+  background-color:slategray
+ }
+
+ .label {
+   color: black;
+ }
+
+ .labelhome {
+  color: black;
+ }
+
+ .labelstat {
+   margin-left: 15px;
+ }
+
+ .sel {
+   width: 180px;
+ }
